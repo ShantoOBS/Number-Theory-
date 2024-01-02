@@ -8,7 +8,7 @@ int recursivePower(int x,int n)
 }
 int main()
 {
-   
+   //
   int x,n;
   cin>>x>>n;
   cout<<"power of x^n is:"<<recursivePower(x,n);
