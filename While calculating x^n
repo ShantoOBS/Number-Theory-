@@ -1,0 +1,16 @@
+#include<bits/stdc++.h>
+using namespace std;
+int recursivePower(int x,int n)
+{
+    if(n==0)
+        return 1;
+    return x*recursivePower(x,n-1);
+}
+int main()
+{
+   
+  int x,n;
+  cin>>x>>n;
+  cout<<"power of x^n is:"<<recursivePower(x,n);
+   
+}
