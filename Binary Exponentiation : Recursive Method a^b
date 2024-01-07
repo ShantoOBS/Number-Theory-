@@ -4,7 +4,7 @@ int binaryExponentiation(int x,int n)
 {
     if(n==0)
         return 1;
-    long res=binaryExponentiation(x,n/2);
+    long long res=binaryExponentiation(x,n/2);
    if(n&1)        //n is odd
         return x*res*res;
     else             //n is even                
