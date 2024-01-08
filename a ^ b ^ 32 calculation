@@ -1,0 +1,22 @@
+#include<bits/stdc++.h>
+using namespace std;
+const int M=1e9+7;
+
+int  binEx(long long a,long long b,int m){
+    long long ans=1;
+    while(b>0){
+        if(b&1){
+            ans=(ans*a)%m;
+        }
+        a=(a*a)%m;
+        b>>=1;
+    }
+    return ans;
+}
+int main()
+{
+    long long a,b;
+    cin>>a>>b;
+    //50 ^ 64 ^32
+    cout<<binEx(a,binEx(b,32,M),M);
+}
