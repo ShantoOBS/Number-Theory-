@@ -18,5 +18,5 @@ int main()
     long long a,b;
     cin>>a>>b;
     //50 ^ 64 ^32
-    cout<<binEx(a,binEx(b,32,M),M);
+    cout<<binEx(a,binEx(b,32,M-1),M);
 }
