@@ -1,4 +1,6 @@
-// Online C++ compiler to run C++ program online
+// T.C : O(n ln(n) )
+// T.C : O(1e7+123)
+
 #include <iostream>
 #include<bits/stdc++.h>
 using namespace std;
