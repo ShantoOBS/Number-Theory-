@@ -1,6 +1,7 @@
 // CSES-Link : https://cses.fi/problemset/task/1713/
 
-//
+// T.C : O(n ln(n) )
+// T.C : O(1e6+123)
 
 #include <iostream>
 #include<bits/stdc++.h>
