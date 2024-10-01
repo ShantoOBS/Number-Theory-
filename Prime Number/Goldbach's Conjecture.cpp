@@ -1,6 +1,8 @@
 
 // vJ link : https://vjudge.net/problem/UVA-543
 
+//T.C : O(n)
+
 #include <iostream>
 #include<bits/stdc++.h>
 using namespace std;
