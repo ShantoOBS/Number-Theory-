@@ -42,10 +42,16 @@ int main() {
      while(cin>>n){
          
          if(n==0)break;
+         
+         if(n==1){
+              cout<<"Goldbach's conjecture is wrong."<<endl;
+              continue;
+         }
           
          bool flag=false;
           
          for(auto i:primes){
+             if(i>n)break;
              int a=i;
              int b=n-i;
              
