@@ -1,5 +1,9 @@
 # Number-Theory
 
+![image](https://github.com/user-attachments/assets/0ea9edde-c9e8-4f78-ac5c-dd12192b09aa)
+
+
+
 
 ন্যূনতম সংখ্যাতত্ত্ব:  https://progkriya.org/gyan/basic-number-theory#section4
 
