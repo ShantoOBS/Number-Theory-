@@ -9,4 +9,6 @@ Euler's Totient Function and Euler's Theorem: https://www.doc.ic.ac.uk/~mrh/330t
 
 Primes : https://www.shafaetsplanet.com/?p=624
 
+Prime-factorization : https://forthright48.com/prime-factorization-of-integer/
+
 
