@@ -1,4 +1,4 @@
-// CodeFroces Link : https://codeforces.com/contest/776/problem/B
+// Hacker-Earth Link : https://www.hackerearth.com/problem/algorithm/number-of-divisors-5/?purpose=login&source=problem-page&update=google
 
 #include <iostream>
 #include<bits/stdc++.h>
