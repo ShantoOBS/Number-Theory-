@@ -17,5 +17,5 @@ Prime-factorization : https://forthright48.com/prime-factorization-of-integer/
 
 Divisor Summatory Function : https://forthright48.com/divisor-summatory-function/
 
-Sum of Divisors of an Integer :https://forthright48.com/sum-of-divisors-of-integer/
+Sum of Divisors of an Integer : https://forthright48.com/sum-of-divisors-of-integer/
 
