@@ -19,3 +19,5 @@ Divisor Summatory Function : https://forthright48.com/divisor-summatory-function
 
 Sum of Divisors of an Integer : https://forthright48.com/sum-of-divisors-of-integer/
 
+Euler Totient or Phi Function : https://forthright48.com/euler-totient-or-phi-function/
+
