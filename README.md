@@ -21,3 +21,5 @@ Sum of Divisors of an Integer : https://forthright48.com/sum-of-divisors-of-inte
 
 Euler Totient or Phi Function : https://forthright48.com/euler-totient-or-phi-function/
 
+Euler Phi Extension and Divisor Sum Theorem: https://forthright48.com/euler-phi-extension-and-divisor-sum/
+
