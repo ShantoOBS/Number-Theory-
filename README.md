@@ -23,3 +23,5 @@ Euler Totient or Phi Function : https://forthright48.com/euler-totient-or-phi-fu
 
 Euler Phi Extension and Divisor Sum Theorem: https://forthright48.com/euler-phi-extension-and-divisor-sum/
 
+Sum of Co-prime Numbers of an Integer: https://forthright48.com/sum-of-coprime-numbers-of-integer
+
