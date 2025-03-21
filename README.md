@@ -25,3 +25,7 @@ Euler Phi Extension and Divisor Sum Theorem: https://forthright48.com/euler-phi-
 
 Sum of Co-prime Numbers of an Integer: https://forthright48.com/sum-of-coprime-numbers-of-integer
 
+Mex (mathematics) : https://en.wikipedia.org/wiki/Mex_(mathematics)
+
+XOR of 1 to n Numbers O(1) : https://www.geeksforgeeks.org/calculate-xor-1-n/
+
