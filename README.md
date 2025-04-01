@@ -11,6 +11,10 @@ Hackerearth: https://www.hackerearth.com/practice/math/number-theory/basic-numbe
 
 Harmonic series : https://en.wikipedia.org/wiki/Harmonic_series_(mathematics)
 
+Sieve of Eratosthenes 1 : https://cp-algorithms.com/algebra/sieve-of-eratosthenes.html
+
+Sieve of Eratosthenes 2 : http://www.shafaetsplanet.com/?p=624 
+
 Euler's Totient Function and Euler's Theorem: https://www.doc.ic.ac.uk/~mrh/330tutor/ch05s02.html#:~:text=Euler's%20theorem%20generalises%20Fermat's%20theorem,is%20the%20Euler's%20totient%20function.
 
 Primes : https://www.shafaetsplanet.com/?p=624
