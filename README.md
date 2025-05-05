@@ -15,11 +15,12 @@ Sieve of Eratosthenes 1 : https://cp-algorithms.com/algebra/sieve-of-eratosthene
 
 Sieve of Eratosthenes 2 : http://www.shafaetsplanet.com/?p=624 
 
-Euler's Totient Function and Euler's Theorem: https://www.doc.ic.ac.uk/~mrh/330tutor/ch05s02.html#:~:text=Euler's%20theorem%20generalises%20Fermat's%20theorem,is%20the%20Euler's%20totient%20function.
-
 Primes : https://www.shafaetsplanet.com/?p=624
 
 Prime-factorization : https://forthright48.com/prime-factorization-of-integer/
+
+Euler's Totient Function and Euler's Theorem: https://www.doc.ic.ac.uk/~mrh/330tutor/ch05s02.html#:~:text=Euler's%20theorem%20generalises%20Fermat's%20theorem,is%20the%20Euler's%20totient%20function.
+
 
 Divisor Summatory Function : https://forthright48.com/divisor-summatory-function/
 
