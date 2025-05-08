@@ -19,12 +19,13 @@ Primes : https://www.shafaetsplanet.com/?p=624
 
 Prime-factorization : https://forthright48.com/prime-factorization-of-integer/
 
+Sum of Divisors of an Integer : https://forthright48.com/sum-of-divisors-of-integer/
+
 Euler's Totient Function and Euler's Theorem: https://www.doc.ic.ac.uk/~mrh/330tutor/ch05s02.html#:~:text=Euler's%20theorem%20generalises%20Fermat's%20theorem,is%20the%20Euler's%20totient%20function.
 
 
 Divisor Summatory Function : https://forthright48.com/divisor-summatory-function/
 
-Sum of Divisors of an Integer : https://forthright48.com/sum-of-divisors-of-integer/
 
 Euler Totient or Phi Function : https://forthright48.com/euler-totient-or-phi-function/
 
