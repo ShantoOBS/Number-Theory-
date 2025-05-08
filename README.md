@@ -23,7 +23,9 @@ Sum of Divisors of an Integer : https://forthright48.com/sum-of-divisors-of-inte
 
 Divisor Summatory Function : https://forthright48.com/divisor-summatory-function/
 
+Euler Totient or Phi Function : https://forthright48.com/euler-totient-or-phi-function/
 
+Euler Phi Extension and Divisor Sum Theorem: https://forthright48.com/euler-phi-extension-and-divisor-sum/
 
 
 
@@ -36,9 +38,6 @@ Euler's Totient Function and Euler's Theorem: https://www.doc.ic.ac.uk/~mrh/330t
 
 
 
-Euler Totient or Phi Function : https://forthright48.com/euler-totient-or-phi-function/
-
-Euler Phi Extension and Divisor Sum Theorem: https://forthright48.com/euler-phi-extension-and-divisor-sum/
 
 Sum of Co-prime Numbers of an Integer: https://forthright48.com/sum-of-coprime-numbers-of-integer
 
