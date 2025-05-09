@@ -27,6 +27,7 @@ Euler Totient or Phi Function : https://forthright48.com/euler-totient-or-phi-fu
 
 Euler Phi Extension and Divisor Sum Theorem: https://forthright48.com/euler-phi-extension-and-divisor-sum/
 
+Sum of Co-prime Numbers of an Integer: https://forthright48.com/sum-of-coprime-numbers-of-integer
 
 
 
@@ -39,7 +40,6 @@ Euler's Totient Function and Euler's Theorem: https://www.doc.ic.ac.uk/~mrh/330t
 
 
 
-Sum of Co-prime Numbers of an Integer: https://forthright48.com/sum-of-coprime-numbers-of-integer
 
 Mex (mathematics) : https://en.wikipedia.org/wiki/Mex_(mathematics)
 
