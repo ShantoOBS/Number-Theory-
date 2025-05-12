@@ -6,6 +6,7 @@ For example, find the Sum of Number of Divisors, SNOD(), when N=5. SNOD(5)=NOD(1
 
 */
 
+// T.C : O(√N)
 
 #include<bits/stdc++.h>
 using namespace std;
