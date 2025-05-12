@@ -1,3 +1,12 @@
+/*
+Problem
+Given an integer N, find the Sum of Number of Divisors from 1→N. That is, find ∑Ni=1NOD(i).
+
+For example, find the Sum of Number of Divisors, SNOD(), when N=5. SNOD(5)=NOD(1)+NOD(2)+NOD(3)+NOD(4)+NOD(5)=1+2+2+3+2=10.
+
+*/
+
+
 #include<bits/stdc++.h>
 using namespace std;
 
