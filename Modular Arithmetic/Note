@@ -1,0 +1,8 @@
+
+1. (a+b) % mod =( (a % mod) + (b % mod) ) % mod
+
+2. (a-b) % mod =( (a % mod) - (b % mod) + mod ) % mod
+
+3. (a*b) % mod =( (a % mod) * (b % mod) ) % mod
+
+4. (a+b) % mod =( (a % mod) * (b^-1) % mod ) % mod
