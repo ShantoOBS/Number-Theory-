@@ -8,6 +8,8 @@ Sum of Divisor Function: SOD(N) or σ1(N)
 
 */
 
+// T.C : O(sqrt(n)/log(sqrt(n)) 
+
 #include<bits/stdc++.h>
 using namespace std;
  
